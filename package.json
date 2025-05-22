@@ -1,0 +1,61 @@
+{
+  "name": "quicklyunique",
+  "displayName": "Quickly Unique",
+  "description": "Quickly create unique things, such as UUID/GUID, short codes or random numbers, and copy to clipboard or insert into editor.",
+  "version": "0.0.1",
+  "publisher": "lunaalfien",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "category": "Quickly Unique",
+        "title": "Insert GUID",
+        "command": "quicklyunique.insert.uuid"
+      },
+      {
+        "category": "Quickly Unique",
+        "title": "Insert Short Code",
+        "command": "quicklyunique.insert.nanoid"
+      },
+      {
+        "category": "Quickly Unique",
+        "title": "Copy GUID to Clipboard",
+        "command": "quicklyunique.copy.uuid"
+      },
+      {
+        "category": "Quickly Unique",
+        "title": "Copy Short Code to Clipboard",
+        "command": "quicklyunique.copy.nanoid"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "20.x",
+    "@types/vscode": "^1.100.0",
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.5.2",
+    "eslint": "^9.25.1"
+  },
+  "dependencies": {
+    "copy-paste": "^2.1.1",
+    "nanoid": "^5.1.5",
+    "uuid": "^11.1.0"
+  }
+}
