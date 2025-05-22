@@ -3,4 +3,5 @@ node_modules
 *.vsix
 .env
 
+# Exclude early development files from git
 reference

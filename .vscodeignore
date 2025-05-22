@@ -10,5 +10,6 @@ vsc-extension-quickstart.md
 **/.vscode-test.*
 **/*.psd
 
+# Exclude development files from build
 reference
 images/icon.png
