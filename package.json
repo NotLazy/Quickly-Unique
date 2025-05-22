@@ -10,6 +10,14 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "random",
+    "uuid"
+  ],
+  "icon": "images/quickly-icon.png",
+  "galleryBanner": {
+    "color": "#0ca074"
+  },
   "activationEvents": [],
   "main": "./extension.js",
   "extensionKind": [
