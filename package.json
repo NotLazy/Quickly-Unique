@@ -4,6 +4,10 @@
   "description": "Quickly create unique things, such as UUID/GUID, short codes or random numbers, and copy to clipboard or insert into editor.",
   "version": "0.0.1",
   "publisher": "lunaalfien",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotLazy/Quickly-Unique.git"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },

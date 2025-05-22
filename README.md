@@ -11,3 +11,5 @@ This extension uses the following packages:
 - [uuid](https://github.com/uuidjs/uuid) to generate UUIDs
 - [nanoid](https://github.com/ai/nanoid/) to generate short ids
 - [copy-paste](https://github.com/xavi-/node-copy-paste) to copy values to the clipboard
+
+[source code](https://github.com/NotLazy/Quickly-Unique)
