@@ -1,0 +1,75 @@
+Quickly Unique Public License (QUPL) v1.0
+Copyright (C) 2025 Luna Alfien
+
+This license applies to the software project "Quickly Unique" and any derivative works, unless otherwise stated.
+
+===========================================================
+Permissions
+===========================================================
+
+You are allowed to:
+
+1. **Use the Software**  
+   For any purpose, including commercial, personal, educational, and internal use.
+
+2. **Modify the Software**  
+   You may make any modifications to the source code.
+
+3. **Redistribute the Software**  
+   You may distribute original or modified versions, under the terms below.
+
+4. **Use over a Network**  
+   Network interaction (such as SaaS use) is considered distribution.
+
+===========================================================
+Conditions
+===========================================================
+
+1. **Source Disclosure**  
+   You must make full, corresponding source code available for all distributed or deployed (including network use) versions—**including for private/internal use**.
+
+2. **Copyleft**  
+   Any distributed or deployed version must be licensed under this same license (QUPL v1.0).
+
+3. **Significant Changes Requirement**  
+   If you distribute a modified version, the changes must be **substantial** and not merely cosmetic or superficial.
+
+4. **Attribution and Backlinks**  
+   You must credit the original author, **Luna Alfien**, and include active links to:
+   - https://github.com/NotLazy/Quickly-Unique
+   - https://luna.alfien.ca
+
+5. **License Inclusion**  
+   You must include a full copy of this license with all distributions.
+
+6. **License Notice**  
+   A prominent notice must indicate:
+   - That your version is modified
+   - The date of modification
+   - The nature of significant changes
+
+===========================================================
+Prohibitions
+===========================================================
+
+1. **No Warranty**  
+   This software is provided "AS IS", without warranty of any kind. The author is not liable for any damages arising from its use.
+
+2. **No Patent Assertion**  
+   You may not initiate patent claims related to this software or its derivatives. If you do, your rights under this license terminate immediately.
+
+===========================================================
+Versioning and Enforcement
+===========================================================
+
+This is version 1.0 of the QUPL. Modified versions of this license must not use the same name or imply they are the same license unless approved by the original author.
+
+Violating any of the above conditions terminates your rights under this license.
+
+===========================================================
+Contact
+===========================================================
+
+Original Author: Luna Alfien  
+Homepage: https://luna.alfien.ca  
+Project: https://github.com/NotLazy/Quickly-Unique
